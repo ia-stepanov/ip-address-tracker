@@ -1,4 +1,6 @@
 # IP Address Tracker
+### ***Учебный проект из курса [Фундаментальный JavaScript](https://www.udemy.com/course/fundamental-javascript/)***  
+**Автор курса: [Михаил Непомнящий](https://www.udemy.com/user/mikhail-nepomniashchii/)**
 
 ## Описание проекта
 IP Address Tracker - это интерактивное приложение для отслеживания IP-адресов.
@@ -46,9 +48,10 @@ IP Address Tracker - это интерактивное приложение дл
 ## Скриншот:
 <details><summary><b>Развернуть</b></summary>
 
-[![ip-address-tracker](https://user-images.githubusercontent.com/86494748/148469677-66482d07-49d0-4828-a2f6-f0d5f4cd32c5.jpg)](https://ip-address-tracker-sable.vercel.app)
+[![ip-address-tracker](https://user-images.githubusercontent.com/86494748/148469677-66482d07-49d0-4828-a2f6-f0d5f4cd32c5.jpg)](https://ia-stepanov.github.io/ip-address-tracker/)
 
 </details>
 
-## Ссылка на сайт:
-https://ip-address-tracker-sable.vercel.app
+## Ссылки на сайт:
+**Vercel**: https://ip-address-tracker-sable.vercel.app  
+**GH-Pages**: https://ia-stepanov.github.io/ip-address-tracker/
